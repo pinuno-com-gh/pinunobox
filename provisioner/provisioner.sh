@@ -70,7 +70,7 @@ sudo apt-get install -y php7.2 php5.6 php5.6-mysql php5.6-gettext php5.6-mbstrin
 sudo a2dismod php7.2 
 
 # enable php 5
-sudo a2enmod php5.6
+# sudo a2enmod php5.6
 
 # run package updates
 apt-get update
